@@ -2,7 +2,7 @@
 
 This repository contains a bot for a custom-modified version of the game **Mire**. The bot automatically connects to the game server, parses room descriptions, collects items, completes quests, and navigates through the game world.
 
-The original Mire game can be found here: [ClojureMire-Updated_Test](https://github.com/gltexture/ClojureMire-Updated_Test).
+The custom Mire game can be found here: [ClojureMire-Updated_Test](https://github.com/gltexture/ClojureMire-Updated_Test).
 
 ## Features
 
